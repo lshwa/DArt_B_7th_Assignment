@@ -64,9 +64,9 @@
 
 
 <!-- 튜플 인증 사진 1, 2 -->
-![alt text](../images/Python/Week2/튜플1.png)
+![alt text](../images/Python/Week2/자료구조/튜플1.png)
 
-![alt text](../images/Python/Week2/튜플2.png)
+![alt text](../images/Python/Week2/자료구조/튜플2.png)
 
 
 ### 리스트 (List)
@@ -93,9 +93,9 @@
 
 
 <!-- 리스트 인증 사진 1, 2 -->
-![alt text](../images/Python/Week2/리스트1.png)
+![alt text](../images/Python/Week2/자료구조/리스트1.png)
 
-![alt text](../images/Python/Week2/리스트2.png)
+![alt text](../images/Python/Week2/자료구조/리스트2.png)
 
 
 ### 딕셔너리 (Dict)
